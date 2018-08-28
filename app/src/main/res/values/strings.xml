@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">RailwayProject</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_Valid_Number_Train">Enter The Valid Train Number</string>
+    <string name="error_Valid_Detail">Please Enter Valid Detail</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_first_page">FirstPage</string>
+
+    <string name="FirstLog">It is the  First logl</string>
+    <string name="Init1">Bonfire at the beach</string>
+    <string name="Init2">You re invited</string>
+    <string name="discrip">This is the Discription of ImsgeView</string>
+    <string name="title_activity_firstpage">Firstpage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Log Out</string>
+    <string name="Icon3Name">Cancle Order</string>
+    <string name="Icon2Name">Gallery</string>
+    <string name="Icon1Name">Snap of Food</string>
+    <string name="Icon4Name">Profile</string>
+    <string name="SourceMenuName">Communicate</string>
+    <string name="SourceMenuItem1">Contact Us</string>
+    <string name="SourceMenuItem2">About Us</string>
+    <string name="foodImage3">Image3</string>
+    <string name="foodImage1">TODO</string>
+    <string name="foodImage2">TODO</string>
+    <string name="foodImage4">TODO</string>
+    <string name="foodImage5">TODO</string>
+    <string name="Email_to_show">amankarn26@gmail.com</string>
+    <string name="todo">TODO</string>
+    <string name="textview">Aman karn</string>
+    <string name="buy">Buy Now!</string>
+    <string name="PriceOfRailway">Price: 70 Rs</string>
+    <string name="PriceOfRailway1">Price: 100 Rs</string>
+    <string name="PriceOfRailway2">Price: 120 Rs</string>
+    <string name="PriceOfRailway3">Price: 70 Rs</string>
+    <string name="payment">Select the Payment Mode</string>
+    <string name="cod">COD (Case On Delevery)</string>
+    <string name="paytm">Paytm</string>
+    <string name="pay">You Have to Pay =</string>
+    <string name="ConHead">Confirmation</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="email_id_defination">Email ID :-</string>
+    <string name="action_sign_Up">Sign Up</string>
+</resources>
